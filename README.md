@@ -1,5 +1,4 @@
-![Naim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naimislam817&show_icons=true&hide_title=true&count_private=true&hide=prs)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimislam817&langs_count=8&layout=compact)
+s![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimislam817&langs_count=8&layout=compact)
 
 <h1 align="center">Hi 👋, I'm Naim Islam</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
