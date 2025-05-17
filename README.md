@@ -1,4 +1,4 @@
-s![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimislam817&langs_count=8&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimislam817&langs_count=8&layout=compact)
 
 <h1 align="center">Hi 👋, I'm Naim Islam</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
