@@ -1,11 +1,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naimislam817&langs_count=8&layout=compact)
 
 <h1 align="center">Hi 👋, I'm Naim Islam</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/4e/4e1f675133f1855855fe2e2e4ba12308_w200.webp"
+
 - 🔭 I’m currently working on **Cross platform programming**
 
-- 🌱 I’m currently learning **Flutter , Web Technologies**
+- 🌱 I’m currently learning **Mobile And Web Technologies**
 
 - 📫 How to reach me **naimislam231@gmail.com**
 
